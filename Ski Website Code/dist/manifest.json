@@ -1,0 +1,34 @@
+{
+  "gallery.html": {
+    "file": "assets/gallery.html.b7b1683e.js",
+    "src": "gallery.html",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.esm.344a13d1.js"
+    ]
+  },
+  "gear.html": {
+    "file": "assets/gear.html.537a66dc.js",
+    "src": "gear.html",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.esm.344a13d1.js"
+    ]
+  },
+  "_bootstrap.esm.344a13d1.js": {
+    "file": "assets/bootstrap.esm.344a13d1.js",
+    "css": [
+      "assets/bootstrap.esm.8ecaab73.css"
+    ],
+    "assets": [
+      "assets/bootstrap-icons.bacd70af.woff2",
+      "assets/bootstrap-icons.4d4572ef.woff"
+    ]
+  },
+  "_main.ddb29463.js": {
+    "file": "assets/main.ddb29463.js",
+    "imports": [
+      "_bootstrap.esm.344a13d1.js"
+    ]
+  }
+}
