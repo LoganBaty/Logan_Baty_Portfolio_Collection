@@ -1,0 +1,12 @@
+
+You turn off the road and enter this new trail you just found. You walk for a while in the dark woods.
+You start to hear sounds around you. This may have been a bad idea. 
+
+ROOOOAAAAR! Something makes a loud growling noise behind you. You turn around as the hairs on your arms
+stand straight up. In the darkness you see a massive, hairy creature with eyes glowing. It stares back 
+at you. You decide to turn and run down the path, your head spinning. 
+
+As you run, you find a fork in the trail, with one path going right and one to the left. Do you 
+go right or left?
+
+Type "right" to try the right path, or type "left" to head down the left path.

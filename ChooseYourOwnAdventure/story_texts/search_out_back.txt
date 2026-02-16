@@ -1,0 +1,6 @@
+
+You decide to look around back. When you get behind the cabin, you see a shed with its door open.
+You enter the shed and see a rifle on the wall with ammo beneath, as well as a dusty 4x4. 
+Do you go for the gun or try to start the 4x4?
+
+Type "take gun" to grab the gun, or type "4x4" to try to start the 4x4.

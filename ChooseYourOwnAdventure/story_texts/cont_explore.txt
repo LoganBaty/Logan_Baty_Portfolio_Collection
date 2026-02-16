@@ -1,0 +1,7 @@
+
+You choose to explore some room, trying to find something to help you. As you search, you find a shotgun leaned up next to a desk. There is a box
+of shells next to it. You pick it up and quickly load it, grateful to have a way to possibly defend yourself. You make your way to the window and
+glance outside. As you squint against the glass, you see the massive thing walking a few feet away. You could maybe surprise the monster with your
+new weapon. Do you try to open the window to shoot? Or do you hold off, hoping it'll leave you alone?
+
+Type "shoot" to let it rip, or type "don't shoot" to hold off.

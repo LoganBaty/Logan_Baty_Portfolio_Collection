@@ -1,0 +1,7 @@
+
+You run to the hunting stand and climb as fast as possible. At the top, you wait, trying to be as silent as possible. Underneath, the creature runs
+past the stand and continues down the trail. You wait for a minute, wondering what to do next.
+
+Do you climb down and try to run back the way you came? Or do you wait longer to make sure it doesn't come back?
+
+Type "climb down" to leave the stand, or type "wait" to wait longer. 

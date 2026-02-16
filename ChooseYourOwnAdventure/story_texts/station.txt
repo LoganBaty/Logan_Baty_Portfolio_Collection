@@ -1,0 +1,6 @@
+
+You figure the ranger station is your best bet. You hurry towards the front of the station, quickly trying the door. It's unlocked! You frantically
+enter, searching for anything of good use. You spot an old, dusty radio on the desk. It looks like it hasn't been used in years. Do you try to 
+see if it works, hoping for a response? Or do you continue exploring to find something that could maybe be more useful?
+
+Type "try radio" to see if it works, or type "keep exploring" to look around more. 

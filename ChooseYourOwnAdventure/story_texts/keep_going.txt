@@ -1,0 +1,9 @@
+
+You pass the hunting stand, still running for your life. The trail twists and turns as you find yourself gaining elevation. As you run, you see 
+markings on the trees that you pass. Scratches and slashes are everywhere. Tree bark litters the forest floor. The trail turns one more time before
+revealing its end. In front of you is the mouth of a cave. Its dark entrance is uninviting, but with no more trail to follow, you either enter or 
+try your luck through the thick forest. 
+
+Do you enter the cave? Or do you try your luck through the woods?
+
+Type "cave" to enter cave, or type "woods" to run into the woods. 

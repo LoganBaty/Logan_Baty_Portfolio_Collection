@@ -1,0 +1,14 @@
+
+You choose to get in the canoe. You quickly grab the paddle next to it and push it into the water as 
+fast as you can. You take a few steps into the water and then jump in. You've never paddled faster
+in your life. After a few moments of paddling you take a look behind you. From the trees you see 
+the yellow glowing eyes looking back at you. It stopped chasing you! Relieved, you keep rowing to get
+further on the lake. 
+
+You look to the other side, which is maybe a 10 minute paddle away. You could make it over there, but 
+you also wonder if staying on the lake might be the safest option, although you may have to wait out 
+the night. 
+
+Do you stay on the lake to wait? Or do you paddle to the other side? 
+
+Type "stay on lake" to stay till morning, or type "paddle" to paddle to the other side.

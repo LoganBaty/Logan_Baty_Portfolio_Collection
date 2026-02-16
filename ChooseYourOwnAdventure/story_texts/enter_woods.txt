@@ -1,0 +1,8 @@
+
+You choose to head straight into the woods. You feels the brush and trees smack across your arms and legs as you sprint, trying not to fall. You
+hear the crunch of twigs and branches behind you. It's chasing you! You look up ahead, trying to think of what to do. In the pale moonlight, you 
+see the forest rise up the side of a mountain. You could possibly find a lookout spot up there to know where to run, you think as sweat is 
+beading down your face. To the other side, you see what looks to be some sort of structure. It looks to be some kind of forest ranger station!
+Do you try to find a lookout on the mountain, or do you make a break for the ranger station?
+
+Type "mountain" to head up the to the top, or type "ranger station" to investigate the station.

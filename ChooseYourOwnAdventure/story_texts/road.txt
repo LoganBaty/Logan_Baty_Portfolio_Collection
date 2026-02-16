@@ -1,0 +1,7 @@
+
+You decide to keep walking on the road, hopeful to try to flag down a passing car. As you walk, you realize just how secluded this road truly
+is. Not a single car has passed, and all you hear is the crunch of gravel under your feet and the sounds of the woods. Eventually, you 
+spot another trail that heads into the woods. You wonder if staying on the road will get you anywhere soon, or if maybe taking the trail will
+lead to finding someone to help. 
+
+Type "stay" to stay on the road or type "enter trail" to enter the trail

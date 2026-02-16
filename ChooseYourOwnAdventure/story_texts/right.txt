@@ -1,0 +1,5 @@
+
+You head down the path on the right. As you run a while longer, you spot a hunting stand up a tree nearby. You could maybe climb and hide from 
+the creature. You could also keep running. What do you do?
+
+Type "climb" to climb the hunting stand, or type "run" to keep going. 

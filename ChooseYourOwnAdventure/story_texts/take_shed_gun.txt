@@ -1,0 +1,5 @@
+
+You grab the gun and load it with ammo. You can't decide if with the new weapon you stay put and wait
+or if you should go and confront the creature. What do you do?
+
+Type "bunker down" to stay in the shed, or type "hunt" to go after the monster.

@@ -1,0 +1,6 @@
+
+You head down the small trail to the cabin. The lights are off. It looks vacant. You run to the door and
+try the handle. It's locked. You wonder if there is a key around here. Do you look for a key? Or do you
+go look around the back of the cabin in search of another way in?
+
+Type "search key" to look for a key, or type "search out back" to look around the outside of the cabin.

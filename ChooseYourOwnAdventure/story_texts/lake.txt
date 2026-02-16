@@ -1,0 +1,9 @@
+
+You turn left, booking it down the path. The sound of tree branches snapping behind you lets you know
+you're being chased. 
+
+As you run, you find the trail ends at the shore of a lake. There is a small canoe at the shore. 
+You could try to escape over the water, or you could keep running along the shore in search of 
+another possible escape.
+
+Type "get in" to take the canoe on the water, or type "follow shore" to keep along the banks.

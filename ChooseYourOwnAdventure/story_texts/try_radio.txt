@@ -1,0 +1,8 @@
+
+You rush to the radio. You press the button and speak into it. Your fearful voice echoes in the abondoned station. As you talk, you hear the 
+sound of nearby branches breaking. The creature is close. All the sudden you are startled by the sound of a voice coming from the radio. The
+radio crackles, making it difficult to hear what the person is saying on the other end of the line. You realize the voice is loud enough to 
+give away your location. Should you quickly turn the radio off, hoping to hide from the creature? Or do you talk back and hope you can get 
+information on how to leave?
+
+Type "turn off" to turn it off, or type "talk back" to conversate.

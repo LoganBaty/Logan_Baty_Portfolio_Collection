@@ -1,0 +1,6 @@
+
+You decide to retrace your steps back to the car, running frantically. Where is the car?? You feel like you've been running for forever, but you 
+still haven't seen you car on the side of the road. It should be there, right? You feel like the creature is close. Do you make a mad dash for 
+the woods? Or do you stick to your hopes of finding the car again? 
+
+Type "leave road" to try the woods, or type "keep going" to stay on the road.

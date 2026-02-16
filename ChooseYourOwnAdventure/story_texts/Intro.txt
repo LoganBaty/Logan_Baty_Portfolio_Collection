@@ -1,0 +1,14 @@
+
+It's late October. You're on a road somewhere deep in the green forests of the Pacific Northwest, not sure if you're in Oregon still or 
+if you've crossed into Washington. You had decided a solo road trip to the coast was a good way to relax during your University's Fall 
+Break. 
+
+The sun is below the horizon, and you realize you haven't seen a town for miles. Suddenly, the gas tank light turns on. Panic starts to 
+rise as you realize you're about out of gas. The nearest town behind you is well out of range, so you continue forward until the car 
+sputters and dies. You pull to the side of the road next to some sort of a trailhead, remembering how you also haven't seen another 
+car it what seems like hours. 
+
+With sunlight practically gone and no cell service, you have a decision to make. Do you walk along the road, hoping to find someone
+else driving on this rural road? Or do you enter the trail with hopes of finding someone's cabin in the woods?
+
+Type "road" to continue walking along the road, or type "trailhead" to enter the trail. 

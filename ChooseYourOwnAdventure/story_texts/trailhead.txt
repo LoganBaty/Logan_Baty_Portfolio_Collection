@@ -1,0 +1,15 @@
+
+You decide to try the trailhead, hoping to possibly find someone or something to help you out. As you
+walk, you notice the forest has become eerily quiet. You get the growing feeling that you aren't alone
+out here. Something is watching you. 
+
+You begin to glance around you. Your imagination runs wild as you wonder what it could be. Suddenly,
+a twig snaps behind you. You look, and in the middle of the path is something huge. An ape-like creature,
+standing more than 9 feet tall, looks right at you. Your body freezes. The creature starts toward you,
+snapping you out of your trance. You turn and book it down the trail.
+
+As you run, you see a small trail that leads to some sort of structure. A cabin maybe? You wonder if 
+you should run towards it or if you should continue down the trail. 
+to the trailhead and enter the forest. You see a cabin as you run.
+
+Type "approach cabin" to head to the cabin, or type "keep running" to continue running.

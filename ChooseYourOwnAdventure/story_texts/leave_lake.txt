@@ -1,0 +1,10 @@
+
+You decide to keep running instead of hopping in the canoe. You run down the shore for a while longer. You look back and see the creature also on
+the shore, heading in your direction. You head into the woods to try to lose it.
+
+As you run, you look up ahead and see an overlook up ahead on top of the mountain
+you could run up to. You also catch something else in the corner of your eye. A building! It looks like it could be an old forest ranger station.
+
+Do you try your chances up the mountain? Or do you head for the ranger station?
+
+Type "mountain" to head up to the overlook, or type "ranger station" to try your chances with the station.

@@ -1,0 +1,7 @@
+
+With the rifle, you confidently decide to leave the shed and go after the creature. You search around the 
+cabin but you find nothing. You start to wonder if you can make your way back to the road from here. 
+You can either follow the trail back the way you came, or try to make a shortcut by cutting through the 
+woods. 
+
+Type "use trail" to follow the trail, or type "cut trail" to trailblaze.
