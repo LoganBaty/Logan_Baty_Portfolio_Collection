@@ -1,0 +1,22 @@
+<h2>Edit Home Information</h2>
+<form [formGroup]="editForm" (ngSubmit)="saveChanges()">
+  <label>Name</label>
+  <input type="text" formControlName="name">
+
+  <label>City</label>
+  <input type="text" formControlName="city">
+
+  <label>State</label>
+  <input type="text" formControlName="state">
+
+  <label>Available Units</label>
+  <input type="number" formControlName="availableUnits">
+
+  <label>WiFi</label>
+  <input type="checkbox" formControlName="wifi">
+
+  <label>Laundry</label>
+  <input type="checkbox" formControlName="laundry">
+
+  <button type="submit">Save</button>
+</form>
